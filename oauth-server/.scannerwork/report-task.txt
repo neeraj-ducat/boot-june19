@@ -1,0 +1,6 @@
+projectKey=oauth-server-sonarTest
+serverUrl=http://localhost:9000
+serverVersion=6.7.2.37468
+dashboardUrl=http://localhost:9000/dashboard/index/oauth-server-sonarTest
+ceTaskId=AWOVkeYXpHykIF_LPQHQ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWOVkeYXpHykIF_LPQHQ
