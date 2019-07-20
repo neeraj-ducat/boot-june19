@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: webApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: neeraj
+Implementation-Vendor-Id: com.techmentro
+Build-Jdk: 1.8.0_05
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/webApp
+Created-By: Maven Integration for Eclipse
+

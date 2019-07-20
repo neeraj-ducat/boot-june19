@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Rest
+Implementation-Version: 1.0
+Built-By: neeraj
+Implementation-Vendor-Id: com.techmentro
+Build-Jdk: 1.8.0_05
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/rest
+Created-By: Maven Integration for Eclipse
+
