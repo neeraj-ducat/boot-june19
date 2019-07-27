@@ -1,0 +1,5 @@
+/home/neeraj/ducat/boot/userapp/src/main/java/com/ducat/entities/User.java
+/home/neeraj/ducat/boot/userapp/src/main/java/com/ducat/validators/MailValidator.java
+/home/neeraj/ducat/boot/userapp/src/main/java/com/ducat/dao/UserDao.java
+/home/neeraj/ducat/boot/userapp/src/main/java/com/ducat/MyApplication.java
+/home/neeraj/ducat/boot/userapp/src/main/java/com/ducat/controllers/Register.java

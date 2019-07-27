@@ -1,0 +1,10 @@
+server:
+  port: 7070
+
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/neeraj-ducat/boot-june19
+          searchPaths: appsConfig
