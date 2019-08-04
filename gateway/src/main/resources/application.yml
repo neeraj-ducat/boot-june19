@@ -8,8 +8,10 @@ spring:
 zuul:
   routes:
     adder: 
-      path: /add/**
-      stripPrefix: false
+      path: /one/**
+    sub: 
+      path: /two/**
+      
     
 eureka:
   client:
